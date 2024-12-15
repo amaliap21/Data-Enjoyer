@@ -4,14 +4,9 @@ Tugas Besar 2 pada kuliah IF3170 Inteligensi Buatan bertujuan untuk memberikan p
 
 ## Table of Contents
 
-- [General Information](#general-information)
-- [Stress Test](#stress-test)
-- [Prerequisites](#prerequisites)
 - [Run the Project](#run-the-project)
 - [Team Members](#team-members)
 - [Kegiatan PIC](#kegiatan-pic)
-- [Program Structure](#program-structure)
-- [Documentation](#documentation)
 
 ## Run the Project
 
